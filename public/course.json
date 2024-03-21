@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"img": "https://i.ibb.co/t2tJkq4/img1.png",
+		"title": "Introduction to C Programming",
+		"description": "A foundational course on C programming depends on basics, syntax, data types, and control flow. Essential for software development.",
+		"price": 15000,
+		"credit": 1
+	},
+	{
+		"id": 2,
+		"img": "https://i.ibb.co/8Pf6W8n/img2.png",
+		"title": "Introduction to Algorithms",
+		"description": "'Introduction to Algorithms' course is a comprehensive guide covering fundamental concepts and techniques in algorithm design and analysis.",
+		"price": 25000,
+		"credit": 2
+	},
+	{
+		"id": 3,
+		"img": "https://i.ibb.co/JdpYjQV/img3.png",
+		"title": "Introduction to C++ for DSA",
+		"description": "Learn fundamental C++ concepts essential for Data Structures and Algorithms (DSA) in this introductory course. This course helps to make better software engineering. ",
+		"price": 10000,
+		"credit": 4
+	},
+	{
+		"id": 4,
+		"img": "https://i.ibb.co/87WtsPm/img4.png",
+		"title": "Basic Data Structures",
+		"description": "Learn fundamental data structures like arrays, linked lists, stacks, and queues for efficient coding and problem-solving.",
+		"price": 35000,
+		"credit": 5
+	},
+	{
+		"id": 5,
+		"img": "https://i.ibb.co/4fpxcvk/img5.png",
+		"title": "Introduction to OOP Python",
+		"description": "Discover the fundamentals of Object-Oriented Programming in Python with this comprehensive introductory course. Learn to design efficient, modular code.",
+		"price": 19000,
+		"credit": 5
+	},
+	{
+		"id": 6,
+		"img": "https://i.ibb.co/10dtnSV/img6.png",
+		"title": "Software Engineering",
+		"description": "Software engineering is the systematic approach to developing, designing, maintaining, and testing software systems to meet specific needs efficiently.",
+		"price": 23000,
+		"credit": 2
+	},
+	{
+		"id": 7,
+		"img": "https://i.ibb.co/bzMhJH7/img7.png",
+		"title": "AWS, Cloud Computing",
+		"description": "Discover the power of AWS, the leading provider of cloud computing solutions, offering scalability, flexibility, and reliability for your business needs.",
+		"price": 35000,
+		"credit": 5
+	},
+	{
+		"id": 8,
+		"img": "https://i.ibb.co/9Nb8Krx/img8.png",
+		"title": "Database (MySQL)",
+		"description": "Unlock the power of data management with our comprehensive MySQL Database course. Learn everything from database design to advanced query optimization.",
+		"price": 19000,
+		"credit": 5
+	},
+	{
+		"id": 9,
+		"img": "https://i.ibb.co/yYydNKL/img9.png",
+		"title": "Problem-Solving Part",
+		"description": "Problem-Solving course equips learners with robust strategies to tackle challenges, fostering analytical thinking and innovative solutions.",
+		"price": 23000,
+		"credit": 2
+	}
+]
